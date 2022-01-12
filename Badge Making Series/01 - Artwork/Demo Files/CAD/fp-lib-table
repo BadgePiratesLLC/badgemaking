@@ -1,0 +1,4 @@
+
+(fp_lib_table
+  (lib (name "10YearCoin (SVG2Shenzen)")(type KiCad)(uri "$(KIPRJMOD)/10YearCoin (SVG2Shenzen).pretty")(options "")(descr ""))
+)
