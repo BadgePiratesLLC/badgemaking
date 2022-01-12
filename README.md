@@ -1,8 +1,5 @@
 # badgemaking
 
-Badge Maker Training
-
-
 
 ##Badge Making Series
 
