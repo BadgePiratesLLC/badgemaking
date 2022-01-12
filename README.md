@@ -2,7 +2,7 @@
 
 Badge Maker Training
 
-![Banner](/BadgeSeries.png)
+![Banner](/assets/BadgeSeries.png)
 
 ##Badge Making Series
 
